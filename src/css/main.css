@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+
+#root{
+    min-height: 100vh;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+    -ms-user-select:none;
+    user-select:none;
+}
