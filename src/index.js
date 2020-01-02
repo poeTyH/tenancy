@@ -28,7 +28,7 @@ class App extends React.Component{
 
     render() {
         return (
-            <div>App</div>
+            <div>test git commit</div>
         )
     }
 }
